@@ -1,0 +1,7 @@
+{
+  "name": "uzimaSync",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
